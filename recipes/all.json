@@ -1,0 +1,52 @@
+[
+    {
+      "title": "Charlie's Milk Steak",
+      "ingredients": ["Ingredient 1", "Ingredient 2", "Ingredient 3"],
+      "instructions": "Step 1: ... Step 2: ...",
+      "image": "./images/milk-steak.jpg",
+      "desc": "A scrumptious steak dinner, best served with free-range jelly beans. The preferred meal of Charlie Kelly, from \"It's Always Sunny in Philidelphia",
+      "link": "./recipes/milk-steak.html"
+    },
+    {
+      "title": "Piemonade",
+      "ingredients": ["Ingredient 1", "Ingredient 2", "Ingredient 3"],
+      "instructions": "Step 1: ... Step 2: ...",
+      "image": "./images/piemonade.png",
+      "desc": "When life throws pies at you, you make yourself a tall, cool glass of piemonade!\"A refreshing summer cocktail from Homestar Runner. Amazing desert drink. WAOW",
+      "link": "./recipes/piemonade.html"
+    },
+    {
+      "title": "Pan Galactic Gargle Blaster",
+      "ingredients": ["Ingredient 1", "Ingredient 2", "Ingredient 3"],
+      "instructions": "Step 1: ... Step 2: ...",
+      "image": "/images/gargle-blaster.jpg",
+      "desc": "An intricate and dangerous cocktail, invented by Zaphod Beeblebrox. Purported to make you feel like \"having your brains smashed out by a slice of lemon wrapped round a large gold brick",
+      "link": "./recipes/gargle-blaster.html"
+    },
+    {
+      "title": "Kokariç",
+      "ingredients": ["Ingredient 1", "Ingredient 2", "Ingredient 3"],
+      "instructions": "Step 1: ... Step 2: ...",
+      "image": "./images/en-iyi-ankara-kokoreccileri-12-meshur-mekan.jpg",
+      "desc": "It is kokariç not the kokoreç. Its made from lamps guts.",
+      "link": "./recipes/gargle-blaster.html"
+    },
+    {
+      "title": "Mumbar Dolması",
+      "ingredients": ["Ingredient 1", "Ingredient 2", "Ingredient 3"],
+      "instructions": "Step 1: ... Step 2: ...",
+      "image": "./images/mumbar-dolmasi-yemekcom-1.webp",
+      "desc": "Işıklı tosun babas favourite meal",
+      "link": "./recipes/gargle-blaster.html"
+    },
+    {
+      "title": "Billur Kebabı",
+      "ingredients": ["Ingredient 1", "Ingredient 2", "Ingredient 3"],
+      "instructions": "Step 1: ... Step 2: ...",
+      "image": "./images/maxresdefault.jpg",
+      "desc": "Best exotic meal in the world",
+      "link": "./recipes/gargle-blaster.html"
+    }
+   
+  ]
+  
